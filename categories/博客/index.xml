@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>博客 on QYH</title>
+    <link>https://YuhongQin.github.io/categories/%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 博客 on QYH</description>
+    <image>
+      <url>https://YuhongQin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://YuhongQin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 26 Nov 2022 15:07:17 +0800</lastBuildDate><atom:link href="https://YuhongQin.github.io/categories/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客更新方法</title>
+      <link>https://YuhongQin.github.io/posts/one/</link>
+      <pubDate>Sat, 26 Nov 2022 15:07:17 +0800</pubDate>
+      
+      <guid>https://YuhongQin.github.io/posts/one/</guid>
+      <description>粗略记录，有待完善。仅供本人记录使用，并非博客搭建教学，相关代码请参考其他PaperMod主题使用者的教学文章</description>
+    </item>
+    
+  </channel>
+</rss>

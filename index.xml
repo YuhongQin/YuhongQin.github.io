@@ -16,7 +16,7 @@
       <pubDate>Sat, 26 Nov 2022 15:07:17 +0800</pubDate>
       
       <guid>https://YuhongQin.github.io/posts/one/</guid>
-      <description>写给自己看的</description>
+      <description>粗略记录，有待完善。仅供本人记录使用，并非博客搭建教学，相关代码请参考其他PaperMod主题使用者的教学文章</description>
     </item>
     
     <item>
@@ -26,6 +26,15 @@
       
       <guid>https://YuhongQin.github.io/posts/qwq/</guid>
       <description>pwq</description>
+    </item>
+    
+    <item>
+      <title>quote</title>
+      <link>https://YuhongQin.github.io/posts/quote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://YuhongQin.github.io/posts/quote/</guid>
+      <description>quote</description>
     </item>
     
     
